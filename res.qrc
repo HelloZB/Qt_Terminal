@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>katynko/info.png</file>
+        <file>katynko/sss.png</file>
+        <file>katynko/знімок7.png</file>
+        <file>katynko/refresh.png</file>
+    </qresource>
+</RCC>
